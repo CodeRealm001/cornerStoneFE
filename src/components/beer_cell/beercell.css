@@ -1,0 +1,74 @@
+.beer-wrapper {
+  list-style-type: none;
+  display: inline-block;
+  border: 1px solid lightgray;
+  box-shadow: 0 0px 10px rgba(0,0,0,0.2);
+  margin:  10px;
+  margin-top: 40px;
+  margin-left: 72px;
+  padding: 0;
+  width: 200px;
+  height: 250px;
+  border-radius: 7px;
+  float: left;
+  position: relative;
+  overflow: hidden;
+}
+
+
+.imgclass{
+  margin: 10px auto;
+  display: block;
+  max-height: 110px;
+}
+
+h4{
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+h3{
+  text-align: left;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  background : lightgrey;
+  height: 50px;
+  width: 200x;
+}
+
+.content{
+  position: absolute;
+  left: 40%
+}
+.content span{
+  text-align: left;
+  padding: 0;
+  margin: 0;
+  
+  background : lightgrey;
+  font-size: 30px
+ 
+}
+header{
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  font-size: 50px
+}
+
+.tag{
+  font-size: 30px
+}
+
+.desc{
+  font-size: 20px
+}
+
+.image{
+  width: 10%;
+  height:10%;
+}
